@@ -16,7 +16,6 @@ function App() {
         <h2 className="container-6">Destinos de Interesse</h2>
         <Country />
         <City />
-        <button className='button-n' value="CLick Me">Enviar</button>
       </div>
   );
   
