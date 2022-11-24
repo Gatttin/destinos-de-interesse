@@ -10,7 +10,7 @@ function App() {
   return (
       <div className="App">
         <div>
-          <h1 className="container-4">Bem Vindo a Ally Hub</h1>
+          <h1 className="container-4">Bem Vindo ao Site!</h1>
         </div>
         <Form />
         <h2 className="container-6">Destinos de Interesse</h2>
